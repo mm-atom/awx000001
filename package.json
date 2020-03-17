@@ -1,7 +1,7 @@
 {
 	"name": "@mmstudio/awx000001",
 	"version": "1.0.0",
-	"description": "获取code",
+	"description": "获取用户code",
 	"scripts": {
 		"test": "tsc -w",
 		"clean": "del-cli ./dist/",
