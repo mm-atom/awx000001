@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/awx000001",
-	"version": "1.0.202003171619",
+	"version": "1.0.202004170902",
 	"description": "获取用户code",
 	"scripts": {
 		"test": "tsc -w",
